@@ -1,0 +1,9 @@
+{
+  "name"          : "RGBShiftShader",
+  "version"       : "1.0",
+  "main"          : "index.js",
+  "dependencies"  : {
+    "threejs"  : "latest"
+  },
+  "ignore"        : ["src"]
+}

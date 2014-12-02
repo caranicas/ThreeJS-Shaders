@@ -1,4 +1,7 @@
-ThreeJS-Shaders
-===============
+ThreeJS RGBShift Shader
+======================
 
-Ports of Three JS Shader examples
+UMD Port of ThreeJS RGBShift Shader.
+
+
+[Source Code](https://github.com/mrdoob/three.js/blob/master/examples/js/shaders/RGBShiftShader.js)
