@@ -3,7 +3,7 @@ ThreeJS-Shaders
 
 #### UMD Ports of Three JS Shaders to facilitate inclusion through [Bower](http://bower.io/)
 
-The purpose of the library is to make web sites that feature [three.js](http://threejs.org/) shader easier to develop for by allowing the use of bower to manage your components.
+The purpose of the library is to enable a more modern work flow for web sites that feature [three.js](http://threejs.org/) and want to use shaders; Using Bower to manage your shaders as components, instead of having to have scripts loose in the top of html. 
 
 ##Current Shaders
 
