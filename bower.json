@@ -1,0 +1,9 @@
+{
+  "name"          : "Dot Screen Shader",
+  "version"       : "0.0.1",
+  "main"          : "index.js",
+  "dependencies"  : {
+    "threejs":"latest"
+  },
+  "ignore"        : ["src"]
+}
