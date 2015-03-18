@@ -10,6 +10,8 @@ The purpose of the library is to enable a more modern work flow for web sites th
 - [RBGSHIFT](https://github.com/caranicas/ThreeJS-Shaders/tree/rgbshiftshader)
 - [DOTSCREEN](https://github.com/caranicas/ThreeJS-Shaders/tree/dotscreenshader)
 - [MIRROR](https://github.com/caranicas/ThreeJS-Shaders/tree/mirrorshader)
+- [DIGITALGLITCH](https://github.com/caranicas/ThreeJS-Shaders/tree/digitalglitchshader)
+
 
 ##Contributing 
 
