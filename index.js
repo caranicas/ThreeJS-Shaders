@@ -1,1 +1,1 @@
-module.exports = require('./dist/shader');
+module.exports = require('./dist/DigitalGlitchShader');

@@ -1,11 +1,10 @@
-ThreeJS ShaderName Shader
+ThreeJS Shader
 ===============
 
-UMD Port of ThreeJS ShaderName Shader.
+UMD Port of ThreeJS DigitalGlitch Shader.
 
-
-[Source Code](https://github.com/mrdoob/three.js/blob/master/examples/js/shaders/ShaderName.js)
+[Source Code](https://github.com/mrdoob/three.js/blob/master/examples/js/shaders/DigitalGlitch.js)
 
 
 Bower Instructions:
-"shadername": "https://github.com/caranicas/ThreeJS-Shaders.git#branchname"
+"digitalglitch": "https://github.com/caranicas/ThreeJS-Shaders.git#digitalglitchshader"
