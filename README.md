@@ -1,11 +1,11 @@
-ThreeJS ShaderName Shader
+ThreeJS Horizontal Blur Shader
 ===============
 
-UMD Port of ThreeJS ShaderName Shader.
+UMD Port of ThreeJS Horizontal Blur Shader.
 
 
-[Source Code](https://github.com/mrdoob/three.js/blob/master/examples/js/shaders/ShaderName.js)
+[Source Code](https://github.com/mrdoob/three.js/blob/master/examples/js/shaders/HorizontalBlurShader.js)
 
 
 Bower Instructions:
-"shadername": "https://github.com/caranicas/ThreeJS-Shaders.git#branchname"
+"horizontalblur": "https://github.com/caranicas/ThreeJS-Shaders.git#horizontalblurshader"
