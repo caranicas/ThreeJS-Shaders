@@ -1,5 +1,5 @@
 {
-  "name"          : "Shader",
+  "name"          : "Triangle Blur Shader",
   "version"       : "1.0",
   "main"          : "index.js",
   "dependencies"  : {
