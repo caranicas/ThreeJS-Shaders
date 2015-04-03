@@ -39,5 +39,5 @@ BleachBypassShader = (function() {
 
 })();
 
-return BleechBypassShader;
+return BleachBypassShader;
 }));
