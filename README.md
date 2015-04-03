@@ -12,6 +12,8 @@ The purpose of the library is to enable a more modern work flow for web sites th
 - [MIRROR](https://github.com/caranicas/ThreeJS-Shaders/tree/mirrorshader)
 - [DIGITALGLITCH](https://github.com/caranicas/ThreeJS-Shaders/tree/digitalglitchshader)
 - [COLORIFY](https://github.com/caranicas/ThreeJS-Shaders/tree/colorifyshader)
+- [BLEACHBYPASS](https://github.com/caranicas/ThreeJS-Shaders/tree/bleachbypassshader)
+- [HORIZONTALBLUR](https://github.com/caranicas/ThreeJS-Shaders/tree/horizontalblurshader)
 
 
 ##Contributing 
