@@ -1,11 +1,11 @@
-ThreeJS ShaderName Shader
+ThreeJS Colorify Shader
 ===============
 
-UMD Port of ThreeJS ShaderName Shader.
+UMD Port of ThreeJS Colorify Shader.
 
 
-[Source Code](https://github.com/mrdoob/three.js/blob/master/examples/js/shaders/ShaderName.js)
+[Source Code](https://github.com/mrdoob/three.js/blob/master/examples/js/shaders/ColorifyShader.js)
 
 
 Bower Instructions:
-"shadername": "https://github.com/caranicas/ThreeJS-Shaders.git#branchname"
+"colorifyshader": "https://github.com/caranicas/ThreeJS-Shaders.git#colorifyshader"
