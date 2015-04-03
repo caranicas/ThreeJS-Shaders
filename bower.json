@@ -1,5 +1,5 @@
 {
-  "name"          : "Shader",
+  "name"          : "BleechBypassShader",
   "version"       : "1.0",
   "main"          : "index.js",
   "dependencies"  : {
